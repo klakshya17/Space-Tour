@@ -54,5 +54,5 @@ Built a multi-page, fully responsive, website using plain HTML, CSS and JavaScri
 ![image](https://user-images.githubusercontent.com/56078582/174063239-5ffa926a-61eb-4e9b-a6b6-0dff6d1c5c0d.png)
 ![image](https://user-images.githubusercontent.com/56078582/174063308-a341778c-50be-403b-a7cf-b063e9d2ea73.png)
 ![image](https://user-images.githubusercontent.com/56078582/174063410-c6b9dc10-b957-4b2a-97bc-fcbfeaa1cfa2.png)
-![image](https://user-images.githubusercontent.com/56078582/174127542-7e067444-b7c2-4236-b1fb-ecf40ff563f7.png)
+![image](https://user-images.githubusercontent.com/56078582/174128020-57c117c7-9797-4079-87f0-f5560d27315f.png)
 
