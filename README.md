@@ -2,6 +2,8 @@
 # Space-Tour
 ## A Space Travel Website
 
+### You can visit the website [here](https://klakshya17.github.io/Space-Tour/).
+
 ## Challenge
 This project was made as a solution to one of [Frontend Mentor](https://www.frontendmentor.io/challenges) Challenges. The challenge is to build out this multi-page space tourism website and get it looking as close to the figma design as possible. 
 
@@ -18,8 +20,6 @@ Built a multi-page, fully responsive, website using plain HTML, CSS and JavaScri
 - The website uses animations and state description over hovered or selected elements.
 - The website is built following practices for accessibilty making it easily accessible for screen readers using assistive technologies.
 - The content is displayed dynamically over all the pages. The users can toggle between the various contents on a page.
-
-### You can visit the website [here](https://klakshya17.github.io/Space-Tour/).
 
 
 ## Key learning points
